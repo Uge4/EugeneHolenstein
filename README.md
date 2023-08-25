@@ -4,10 +4,11 @@ Thanks for flying :airplane: by my github page!<br>
 <br>
 I'm Eugene, a <strong>Product Manager</strong> by day and <strong>Full Stack Developer</strong> by night 🌃🌙💻🕯️ <br>
 <br>
-As someone that lives and breathes product development, understanding how to build software that's scalable and extensible is super important to me.
-From designing to developing digital experiences, it's all about solving painpoints and delighting users which can be done in any number of ways - you just need to be able to have the right conversations!<br>
+As someone that lives and breathes product development, I think understanding how software is built and the processes and methods underpinning it, is important to delivering high quality and scalable products and solutions.
+
+From designing intuitive user experiences in SaaS platforms to developing digital experiences, it's all about solving customer problems and delighting users - all of which can be done a number of ways but you first have to be able to ask the righ questions and have the right conversations!<br>
 <br>
-More to the point, as an entrepreneurially minded innovator, the opportunities that emerging technologies present just makes it an exciting time to be creating digital products so maybe fly by again in future :wink: <br>
+As an entrepreneurially minded innovator, the opportunities that emerging technologies present makes it an exciting time to be creating digital products, so maybe fly by again in future and see what ive been up to :wink: <br>
 <br>
 <strong>Languages & Tools</strong>
 <li> Javascript
