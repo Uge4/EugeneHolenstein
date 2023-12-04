@@ -1,8 +1,8 @@
 #Hello :wave: :earth_asia:
 
-Thanks for flying :airplane: by my github page!<br>
+Thanks for flying :airplane: by my github page.<br>
 <br>
-I'm Eugene, a <strong>Product Manager</strong> by day and <strong>Full Stack Developer</strong> by night 🌃🌙💻🕯️ <br>
+I'm Eugene, an entrepreneurial <strong>Product Manager</strong> with an interest in software development, innovation and emerging technologies.<br>
 <br>
 As someone that lives and breathes product development, I think understanding how software is built and the processes and methods underpinning it, is important to delivering high quality and scalable products and solutions.
 
